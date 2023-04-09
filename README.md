@@ -1,5 +1,5 @@
 # Criando-um-Phishing-com-Kali-Linux
-Criando um Phishing com Kali Linux.pptx
+Criando um Phishing com Kali Linux
 [*] You may need to copy /var/www/* into /var/www/html depending on where your directory structure is.
 Press {return} if you understand what we're saying here.
 [*] Apache is set to ON - everything will be placed in your web root directory of apache.
